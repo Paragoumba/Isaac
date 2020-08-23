@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/res/isaac.svg" alt="Isaac Logo" width="550"/>
+    <img src="/res/isaac-cropped.svg" alt="Isaac Logo" width="550"/>
 </p>
 
 <h2 align="center">A simple deterministic physics engine</h2>

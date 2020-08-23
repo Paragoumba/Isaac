@@ -1,36 +1,168 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="793.7" height="793.7" version="1.1" viewBox="0 0 210 210" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g transform="translate(-4.6259 4.6878)">
-  <text transform="translate(17.045 8.3654)" fill="#000000" font-family="Roboto" font-size="50.8px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25;shape-inside:url(#rect12);white-space:pre" xml:space="preserve"><tspan x="19.816406" y="110.00461"><tspan font-family="Roboto" font-size="50.8px">ISAAC</tspan></tspan></text>
-  <g stroke-linecap="round" stroke-width=".26458">
-   <circle cx="52.061" cy="81.206" r="6"/>
-   <circle cx="113.93" cy="98.111" r="8"/>
-   <rect transform="rotate(69.056)" x="137.38" y="-104.41" width="10" height="10" ry="0"/>
-   <rect transform="matrix(-.89188 .45227 .45227 .89188 0 0)" x="-113.84" y="170.36" width="3.6458" height="18.791"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg60"
+   viewBox="0 0 210 210"
+   version="1.1"
+   height="793.7"
+   width="793.7">
+  <defs
+     id="defs64">
+    <rect
+       id="rect891"
+       height="70.448454"
+       width="167.43941"
+       y="83.520008"
+       x="37.988562" />
+  </defs>
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g20"
+     transform="translate(-4.6259,4.6878)">
+    <g
+       id="g18"
+       stroke-width="0.26458"
+       stroke-linecap="round">
+      <circle
+         id="circle10"
+         r="6"
+         cy="81.206001"
+         cx="52.061001" />
+      <circle
+         id="circle12"
+         r="8"
+         cy="98.111"
+         cx="113.93" />
+      <rect
+         id="rect14"
+         ry="0"
+         height="10"
+         width="10"
+         y="-104.41"
+         x="137.38"
+         transform="rotate(69.056)" />
+      <rect
+         id="rect16"
+         height="18.791"
+         width="3.6458001"
+         y="170.36"
+         x="-113.84"
+         transform="matrix(-0.89188,0.45227,0.45227,0.89188,0,0)" />
+    </g>
+    <text
+       transform="translate(-1.1269287,-11.861162)"
+       style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect891);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text889"
+       xml:space="preserve"><tspan
+         x="37.988281"
+         y="130.23117"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">ISAAC</tspan></tspan></text>
   </g>
- </g>
- <g transform="translate(-51.821)" display="none">
-  <g fill="#000000" font-family="sans-serif" font-size="50.8px" letter-spacing="0px" word-spacing="0px">
-   <text transform="rotate(25.863 35.445 330.45)" style="line-height:1.25;shape-inside:url(#rect36);white-space:pre" xml:space="preserve"><tspan x="25.732422" y="196.46172"><tspan font-size="50.8px">I</tspan></tspan></text>
-   <text transform="rotate(26.526)" x="174.32811" y="136.66612" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="174.32811" y="136.66612" font-size="50.8px" stroke-width=".26458">S</tspan></text>
-   <text transform="translate(0 9.6945)" style="line-height:1.25;shape-inside:url(#rect52);white-space:pre" xml:space="preserve"><tspan x="123.02148" y="200.30547"><tspan font-size="50.8px">AA</tspan></tspan></text>
-   <text transform="rotate(-20.662 292.15 284.13)" style="line-height:1.25;shape-inside:url(#rect58);white-space:pre" xml:space="preserve"><tspan x="222.96875" y="184.39336"><tspan font-size="50.8px">C</tspan></tspan></text>
+  <g
+     id="g56"
+     display="none"
+     transform="translate(-51.821)">
+    <g
+       id="g44"
+       word-spacing="0px"
+       letter-spacing="0px"
+       font-size="50.8px"
+       font-family="sans-serif"
+       fill="#000000">
+      <text
+         id="text26"
+         xml:space="preserve"
+         style="line-height:1.25;shape-inside:url(#rect36);white-space:pre;"
+         transform="rotate(25.863 35.445 330.45)"><tspan
+           x="0"
+           y="0"><tspan
+             style="font-size:50.8px">I</tspan></tspan></text>
+      <text
+         id="text30"
+         xml:space="preserve"
+         style="line-height:1.25"
+         stroke-width=".26458"
+         y="136.66612"
+         x="174.32811"
+         transform="rotate(26.526)"><tspan
+           id="tspan28"
+           stroke-width=".26458"
+           font-size="50.8px"
+           y="136.66612"
+           x="174.32811">S</tspan></text>
+      <text
+         id="text36"
+         xml:space="preserve"
+         style="line-height:1.25;shape-inside:url(#rect52);white-space:pre;"
+         transform="translate(0 9.6945)"><tspan
+           x="0"
+           y="0"><tspan
+             style="font-size:50.8px">AA</tspan></tspan></text>
+      <text
+         id="text42"
+         xml:space="preserve"
+         style="line-height:1.25;shape-inside:url(#rect58);white-space:pre;"
+         transform="rotate(-20.662 292.15 284.13)"><tspan
+           x="20.017578"
+           y="118.78789"><tspan
+             style="font-size:50.8px">C</tspan></tspan></text>
+    </g>
+    <g
+       id="g54"
+       stroke-width=".26458"
+       stroke-linecap="round">
+      <circle
+         id="circle46"
+         r="7"
+         cy="168.87"
+         cx="131.94" />
+      <rect
+         id="rect48"
+         ry="0"
+         height="10"
+         width="10"
+         y="62.969"
+         x="237.12"
+         transform="rotate(35.162)" />
+      <rect
+         id="rect50"
+         height="18.791"
+         width="3.6458"
+         y="-52.27"
+         x="-257.17"
+         transform="matrix(-.61237 -.79058 -.79058 .61237 0 0)" />
+      <circle
+         id="circle52"
+         r="7"
+         cy="198.67"
+         cx="205.54" />
+    </g>
   </g>
-  <g stroke-linecap="round" stroke-width=".26458">
-   <circle cx="131.94" cy="168.87" r="7"/>
-   <rect transform="rotate(35.162)" x="237.12" y="62.969" width="10" height="10" ry="0"/>
-   <rect transform="matrix(-.61237 -.79058 -.79058 .61237 0 0)" x="-257.17" y="-52.27" width="3.6458" height="18.791"/>
-   <circle cx="205.54" cy="198.67" r="7"/>
-  </g>
- </g>
- <rect x="20.018" y="73.841" width="169.96" height="62.319" ry="0" fill="none" stroke="#000" stroke-linecap="round" stroke-width="5.2917"/>
+  <rect
+     style="fill:none"
+     id="rect58"
+     stroke-width="5.2917"
+     stroke-linecap="round"
+     stroke="#000"
+     fill="none"
+     ry="0"
+     height="62.319"
+     width="169.96"
+     y="73.841"
+     x="20.018" />
 </svg>
